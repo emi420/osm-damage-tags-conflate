@@ -31,5 +31,9 @@ Edit conflate.py
 python conflate.py
 ```
 
+## Copyright
+
+(c) Emilio Mariscal 2026. This code was written making extensive use of Qwen3.6:27b.
+
 
 
