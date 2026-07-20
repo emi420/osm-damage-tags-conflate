@@ -8,9 +8,11 @@ It's designed for adding damage tags to buildings on OSM.
 
 <img width="1511" height="850" alt="Screenshot 2026-07-20 at 6 26 36 PM" src="https://github.com/user-attachments/assets/6a6dd2de-7e07-46f4-a634-4aa24bfb0fa3" />
 
-## Install
+## Install requirements
 
+```bash
 pip install osmium geopandas
+```
 
 ## Config
 
